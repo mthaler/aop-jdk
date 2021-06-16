@@ -1,2 +1,2 @@
-# aop-from-scratch
-Aspect-oriented programming example
+# aop-jdk
+Aspect-oriented programming example using JDP proxy
