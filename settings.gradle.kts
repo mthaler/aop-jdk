@@ -1,3 +1,3 @@
 
-rootProject.name = "aop-from-scratch"
+rootProject.name = "aop-jdk"
 
